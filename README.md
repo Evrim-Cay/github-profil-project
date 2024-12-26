@@ -21,3 +21,5 @@ If the searched user cannot be found, a "User Not Found" message is displayed on
 - **JavaScript:** To handle dynamic functionalities.
 - **Axios:** To perform API calls.
 - **GitHub API:** To retrieve user information.
+
+![Document-GoogleChrome2024-12-2622-38-53-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0385d882-d6c6-444a-805b-26dc50bdebbf)
